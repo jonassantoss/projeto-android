@@ -1,0 +1,1 @@
+This project is a website for educational purposes, with the aim of studying HTML5 and CSS3. This site tells a little about the history of android and some curiosities
