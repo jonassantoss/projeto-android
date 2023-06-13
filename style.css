@@ -42,8 +42,8 @@ header {
 }
 
 header h1, p {
-  margin-top: 10px;
-  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 header h1 {
@@ -63,7 +63,6 @@ nav a {
   font-weight: bold;
   text-shadow: none;
   color: var(--cor1);
-  margin-right: 10px;
   transition-duration: .5s;
 }
 
@@ -174,7 +173,6 @@ h3 {
 
 ul {
   list-style-type: '\2714\00A0\00A0';
-  list-style-position: inside;
   display: inline-block;
   text-align: left;
   margin: 10px 100px 10px 100px;
