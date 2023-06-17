@@ -152,6 +152,10 @@ footer strong {
   font-weight: 700;
 }
 
+footer a:visited {
+  color: #fff;
+}
+
 h2 {
   color: var(--cor3_5);
   background-image: linear-gradient(to right, #a4f1a4, rgba(255, 255, 255, 0.548));
